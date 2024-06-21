@@ -3,5 +3,5 @@
 - 👨‍💻 I’m currently pursuing BCA
 - 🔭 Working on multiple Web dev & Cloud projects 
 - 🌱 And currently learning Kubernetes and docker
-- 📫 Reach me on: Sourabh7iwari@gmail.comllri&
+- 📫 Reach me on: Sourabh7iwari@gmail.com
 - ⚡ Fun fact: I'm still unemployed
