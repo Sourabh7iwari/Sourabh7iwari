@@ -1,5 +1,5 @@
 ## 💫 HELLO, I'm Sourabh Tiwari:  [![](https://visitcount.itsvg.in/api?id=sourabh7iwari&icon=5&color=9&cache_bust=1)](https://visitcount.itsvg.in)
-👨‍💻 I’m currently pursuing BCA.<br>🔭 I'm now working on multiple Web dev & Cloud projects<br>🌱 And learning Kubernetes and docker.<br>📫 Reach me at: Sourabh7iwari@gmail.com<br>🌟 fun fact: I'm a <b>Pythonista,</b> but having no hostility to other languages😁.<br>
+👨‍💻 I’m currently pursuing BCA.<br>🔭 I'm now working on Data Engineering Projects<br>🌱 And learning Kubernetes and docker.<br>📫 Reach me at: Sourabh7iwari@gmail.com<br>🌟 fun fact: I'm a <b>Pythonista,</b> but having no hostility to other languages😁.<br>
 
 
 # 💻 Tech Stack:
@@ -7,10 +7,11 @@
 # 📊 GitHub Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sourabh7iwari&theme=blue-green&hide_border=false&cache_bust=1)<br/>
+![](https://github-readme-stats.vercel.app/api?username=sourabh7iwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7iwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=1)
-![](https://github-readme-stats.vercel.app/api?username=sourabh7iwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<br/>
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sourabh7iwari&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_bust=1)
+<!--![](https://github-profile-trophy.vercel.app/?username=sourabh7iwari&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_bust=1)-->
 
 
 ### ✍️ Random Dev Quote
