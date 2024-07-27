@@ -11,8 +11,8 @@
 ![](https://github-readme-stats.vercel.app/api?username=sourabh7iwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabh7iwari&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_bust=1)
 <br/>
-## 🏆 GitHub Trophies
-<!--![](https://github-profile-trophy.vercel.app/?username=sourabh7iwari&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_bust=1)-->
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sourabh7iwari&theme=radical&no-frame=false&no-bg=false&margin-w=4&cache_bust=1)-->
 
 
 ### ✍️ Random Dev Quote
