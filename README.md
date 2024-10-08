@@ -1,5 +1,5 @@
 ## 💫 HELLO, I'm Sourabh Tiwari:  [![](https://visitcount.itsvg.in/api?id=sourabh7iwari&icon=5&color=9&cache_bust=1)](https://visitcount.itsvg.in)
-<img src="anime_on_workstation.png" alt="Your Image" align="right" width="230">
+<img src="anime_on_workstation.png" alt="Your Image" align="right" width="200">
 <h3>Pythonista and Cloud & Data Engineer Enthusiast.</h3>
 👨‍💻 I’m currently pursuing BCA.<br>
 🔭 Learning Cloud tools and its infrastructure.<br>  
