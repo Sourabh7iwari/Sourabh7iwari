@@ -1,7 +1,7 @@
 ## 💫 HELLO, I'm Sourabh Tiwari:  [![](https://visitcount.itsvg.in/api?id=sourabh7iwari&icon=5&color=9&cache_bust=1)](https://visitcount.itsvg.in)
 ### Pythonista and Cloud & Data Engineer Enthusiast.
 
-| <div>👨‍💻 I’m currently pursuing BCA.<br>🔭 Learning Cloud tools and its infrastructure.<br>🌱 Can contribute to Python projects.<br>📫 Reach me at: <a href="mailto:sourabh7iwari@gmail.com"><b>sourabh7iwari@gmail.com</b></a><br>🌟 Fun fact: I'm a <b>Pythonista,</b> but having no hostility to other languages😁.</div> | <img src="anime_on_workstation.png" alt="Your Image" width="150"> |
+| <div>👨‍💻 I’m currently pursuing BCA.<br>🔭 Learning Cloud tools and its infrastructure.<br>🌱 Can contribute to Python projects.<br>📫 Reach me at: <a href="mailto:sourabh7iwari@gmail.com"><b>sourabh7iwari@gmail.com</b></a><br>🌟 Fun fact: I'm a <b>Pythonista,</b> but having no hostility to other languages😁.</div> | <img src="anime_on_workstation.png" alt="Your Image" width="120"> |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:---------------------------:|
 
 
