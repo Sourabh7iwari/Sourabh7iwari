@@ -1,9 +1,9 @@
 ## 💫 HELLO, I'm Sourabh Tiwari:  [![](https://visitcount.itsvg.in/api?id=sourabh7iwari&icon=5&color=9&cache_bust=1)](https://visitcount.itsvg.in)
 <img src="anime_on_workstation.png" alt="Your Image" align="right" width="200">
 <h3>Pythonista and Cloud & Data Engineer Enthusiast.</h3>
-👨‍💻 I’m currently pursuing BCA.<br>
-🔭 Learning Cloud tools and its infrastructure.<br>  
-🌱 Can contribute to Python projects.<br>
+👨‍💻 I am a BCA graduate.<br>
+🔭 Learning New skills and Tools.<br>  
+🌱 Open to work.<br>
 📫 Reach me at: <a href="mailto:sourabh7iwari@gmail.com"><b>sourabh7iwari@gmail.com</b></a><br>
 🌟 Fun fact: I'm a <b>Pythonista,</b> but having no hostility to other languages😁.
 <br>
